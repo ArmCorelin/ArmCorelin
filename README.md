@@ -1,7 +1,8 @@
 
-##Armlin (Linux on Mac)
+## Armlin (Linux on Mac)
 
 Contents in this repo. is fully on your risk.
+
 X Twitter: @ARMcoreLinux (Japanese, English, Chinese)
 
 
